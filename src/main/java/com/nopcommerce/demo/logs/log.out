@@ -1,0 +1,328 @@
+2022-05-18 13:05:765 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:978 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:517 INFO  HomePage :62 - Enter the job title jobTitle
+2022-05-18 13:05:686 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:768 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:735 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:309 INFO  HomePage :62 - Enter the job title jobTitle
+2022-05-18 13:05:459 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:547 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:851 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:593 INFO  HomePage :62 - Enter the job title jobTitle
+2022-05-18 13:05:817 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:800 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:658 INFO  HomePage :62 - Enter the job title jobTitle
+2022-05-18 13:05:891 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:24 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:67 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:607 INFO  HomePage :62 - Enter the job title Tester
+2022-05-18 13:05:719 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:800 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:887 INFO  HomePage :74 - click on more option link More Search Options
+2022-05-18 13:05:23 INFO  HomePage :78 - enter the minimun salary
+2022-05-18 13:05:175 INFO  HomePage :82 - enter the maximum salary 
+2022-05-18 13:05:259 INFO  HomePage :86 - select the salary type                                Per annum
+                                Per month
+                                Per week
+                                Per day
+                                Per hour
+                            
+2022-05-18 13:05:313 INFO  HomePage :90 - select the job type [[ChromeDriver: chrome on WINDOWS (f186a68d5da6b28aba830bf02f67b212)] -> xpath: //select[@id='tempperm']]
+2022-05-18 13:05:390 INFO  HomePage :94 - click on job button
+2022-05-18 13:05:650 INFO  ResultPage :27 - verify the page Permanent Tester jobs in Harrow on the Hill
+2022-05-18 13:05:398 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:848 INFO  HomePage :62 - Enter the job title Developer
+2022-05-18 13:05:987 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:76 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:161 INFO  HomePage :74 - click on more option link More Search Options
+2022-05-18 13:05:451 INFO  HomePage :78 - enter the minimun salary
+2022-05-18 13:05:576 INFO  HomePage :82 - enter the maximum salary 
+2022-05-18 13:05:681 INFO  HomePage :86 - select the salary type                                Per annum
+                                Per month
+                                Per week
+                                Per day
+                                Per hour
+                            
+2022-05-18 13:05:742 INFO  HomePage :90 - select the job type [[ChromeDriver: chrome on WINDOWS (4164c3b8a69d5a713e5d91c051560d8f)] -> xpath: //select[@id='tempperm']]
+2022-05-18 13:05:821 INFO  HomePage :94 - click on job button
+2022-05-18 13:05:391 INFO  ResultPage :27 - verify the page Permanent Developer jobs in Hampshire
+2022-05-18 13:05:172 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:767 INFO  HomePage :62 - Enter the job title Test Engineer
+2022-05-18 13:05:901 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:986 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:85 INFO  HomePage :74 - click on more option link More Search Options
+2022-05-18 13:05:283 INFO  HomePage :78 - enter the minimun salary
+2022-05-18 13:05:436 INFO  HomePage :82 - enter the maximum salary 
+2022-05-18 13:05:510 INFO  HomePage :86 - select the salary type                                Per annum
+                                Per month
+                                Per week
+                                Per day
+                                Per hour
+                            
+2022-05-18 13:05:570 INFO  HomePage :90 - select the job type [[ChromeDriver: chrome on WINDOWS (2b88d4dd3f14d5b8192048941adeac1c)] -> xpath: //select[@id='tempperm']]
+2022-05-18 13:05:652 INFO  HomePage :94 - click on job button
+2022-05-18 13:05:901 INFO  ResultPage :27 - verify the page Permanent Test Engineer jobs in Hertfordshire
+2022-05-18 13:05:625 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:79 INFO  HomePage :62 - Enter the job title Test Manager
+2022-05-18 13:05:222 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:312 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:339 INFO  HomePage :74 - click on more option link More Search Options
+2022-05-18 13:05:501 INFO  HomePage :78 - enter the minimun salary
+2022-05-18 13:05:638 INFO  HomePage :82 - enter the maximum salary 
+2022-05-18 13:05:719 INFO  HomePage :86 - select the salary type                                Per annum
+                                Per month
+                                Per week
+                                Per day
+                                Per hour
+                            
+2022-05-18 13:05:776 INFO  HomePage :90 - select the job type [[ChromeDriver: chrome on WINDOWS (1a1bb6d61fbd4d45ce04be2b64ca4c2d)] -> xpath: //select[@id='tempperm']]
+2022-05-18 13:05:846 INFO  HomePage :94 - click on job button
+2022-05-18 13:05:997 INFO  ResultPage :27 - verify the page Permanent Test Manager jobs in Longford County
+2022-05-18 13:05:710 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 13:05:471 INFO  HomePage :62 - Enter the job title Test Technician
+2022-05-18 13:05:603 INFO  HomePage :66 - enter the location
+2022-05-18 13:05:690 INFO  HomePage :70 - select the Distance                         
+                             up to 1 mile
+                        
+                             up to 2 miles
+                        
+                             up to 5 miles
+                        
+                             up to 7 miles
+                        
+                             up to 10 miles
+                        
+                             up to 15 miles
+                        
+                             up to 25 miles
+                        
+                             up to 35 miles
+                        
+                             up to 50 miles
+                        
+                             up to 75 miles
+                        
+                             up to 100 miles
+                        
+                             up to 250 miles
+                        
+                             up to 500 miles
+                        
+                             up to 750 miles
+                        
+                    
+2022-05-18 13:05:777 INFO  HomePage :74 - click on more option link More Search Options
+2022-05-18 13:05:79 INFO  HomePage :78 - enter the minimun salary
+2022-05-18 13:05:202 INFO  HomePage :82 - enter the maximum salary 
+2022-05-18 13:05:328 INFO  HomePage :86 - select the salary type                                Per annum
+                                Per month
+                                Per week
+                                Per day
+                                Per hour
+                            
+2022-05-18 13:05:380 INFO  HomePage :90 - select the job type [[ChromeDriver: chrome on WINDOWS (d606e82c0753654880af352e5e296659)] -> xpath: //select[@id='tempperm']]
+2022-05-18 13:05:450 INFO  HomePage :94 - click on job button
+2022-05-18 13:05:425 INFO  ResultPage :27 - verify the page Permanent Test Technician jobs in Heston
